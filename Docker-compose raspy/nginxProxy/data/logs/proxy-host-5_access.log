@@ -1,0 +1,5 @@
+[01/Jun/2022:14:27:37 +0000] - - 301 - HEAD http faci-lista.duckdns.org "/" [Client 58.251.94.154] [Length 0] [Gzip -] [Sent-to 192.168.1.119] "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.813.0 Safari/535.1" "-"
+[01/Jun/2022:21:33:25 +0000] - - 301 - GET http faci-lista.duckdns.org "/" [Client 167.248.133.118] [Length 166] [Gzip -] [Sent-to 192.168.1.119] "Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)" "-"
+[01/Jun/2022:21:33:27 +0000] - 400 400 - GET https faci-lista.duckdns.org "/" [Client 167.248.133.118] [Length 154] [Gzip -] [Sent-to 192.168.1.119] "Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)" "-"
+[01/Jun/2022:21:33:27 +0000] - - 400 - GET http faci-lista.duckdns.org "/" [Client 167.248.133.118] [Length 252] [Gzip -] [Sent-to ] "Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)" "-"
+[02/Jun/2022:07:56:24 +0000] - - 301 - GET http faci-lista.duckdns.org "/" [Client 111.7.100.27] [Length 0] [Gzip -] [Sent-to 192.168.1.119] "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" "-"

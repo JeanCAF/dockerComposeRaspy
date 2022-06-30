@@ -1,0 +1,1 @@
+2022/06/01 21:33:27 [warn] 7895#7895: *31847 using uninitialized "server" variable while logging request, client: 167.248.133.118, server: faci-lista.duckdns.org, request: "GET / HTTP/1.1", host: "faci-lista.duckdns.org:443"
